@@ -28,6 +28,18 @@ https://purgecss.com
 - Criar sombras para o CSS (box-shadown)<br>
 https://shadows.brumm.af
 
+- Gera um svg animado de ondas ou outras ani8mações para o CSS<br>
+https://svgwave.in
+
+- Remover fundo de imagens<br>
+https://www.remove.bg/pt-br
+
+- Personalizar as READMEs do projeto<br>
+https://readme.com
+
+- Gerador de icons<br>
+https://fontawesome.com/icons/categories/coding
+
 <h3>Sites de ilustração</h3>
 
 https://www.opendoodles.com <br>
