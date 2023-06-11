@@ -28,3 +28,10 @@ https://purgecss.com
 - Criar sombras para o CSS (box-shadown)<br>
 https://shadows.brumm.af
 
+<h3>Sites de ilustração</h3>
+
+https://www.opendoodles.com <br>
+https://www.humaaans.com <br>
+https://icons8.com.br <br>
+
+
