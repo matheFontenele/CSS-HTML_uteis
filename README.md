@@ -40,6 +40,9 @@ https://readme.com
 - Gerador de icons<br>
 https://fontawesome.com/icons/categories/coding
 
+- Fazer deeeploy de site em React<br>
+https://www.freecodecamp.org/portuguese/news/como-fazer-o-deploy-de-uma-aplicacao-do-react-com-rotas-no-github-pages/
+
 <h3>Sites de ilustração</h3>
 
 https://www.opendoodles.com <br>
